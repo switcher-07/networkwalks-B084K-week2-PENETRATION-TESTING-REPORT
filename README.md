@@ -165,11 +165,6 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 <img width="1050" height="677" alt="image" src="7.png" />
 
-## 📄 Graphique
-
-[📖 Consulter le rapport](graphique.pdf)
-
-
 
 👤 Author
 Farid BAYILI
