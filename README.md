@@ -165,7 +165,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 <img width="1050" height="677" alt="image" src="7.png" />
 
-<img width="1050" height="636" alt="image" src="graphique.pdf" />
+<iframe src="graphique.pdf" width="100%" height="800px"></iframe>
 
 
 
