@@ -5,7 +5,7 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name (Cybersecurity Professional)** | **Datus Ekwabi** |
+| **Pentester Name (Cybersecurity Professional)** | **Farid BAYILI** |
 | **Program/Batch** | B084-Networkwalks |
 | **Date** | 13 November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
@@ -65,16 +65,16 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 
 The example results provided in the practical identified four live hosts:
 
-- `172.16.1.1`
-- `172.16.1.247`
-- `172.16.1.249`
-- `172.16.1.248`
+- `192.168.119.10`
+- `192.168.119.11`
+- `192.168.119.128`
+- `192.168.119.130`
 
 The example results also included four MAC addresses.
-- `2C:C8:1B:63:2F:D4`
-- `A0:00:4C:CB:3C:25`
-- `CA:DB:A1:B7:FB:69`
-- `B4:2E:99:6E:20:71`
+- `00:0C:29:6A:C8:BB`
+- `00:0C:29:9F:13:E3`
+- `00:0C:29:F6:8C:06`
+- `00:50:56:E4:17:A4`
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
@@ -166,17 +166,17 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 <img width="1050" height="677" alt="image" src="https://github.com/user-attachments/assets/446f7311-0f62-4a67-a584-b05bb8d0bcde" />
 
-<img width="1050" height="636" alt="image" src="https://github.com/user-attachments/assets/fc5934c5-c5e3-4999-a914-199787b719e1" />
+<img width="1050" height="636" alt="image" src="7.png" />
 
 
 
 👤 Author
-Datus Ekwabi
-LinkedIn: www.linkedin.com/in/datus-ekwabi-43b622173
+Farid BAYILI
+LinkedIn: 
 ________________________________________
 📌 Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: https://github.com/Datus20/NETWORKWALKS-DATUS-B084-WK2-PM1-FOOTPRINTING-WITH-MULTIPLE-KALI-TOOLS
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: 
 
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: https://github.com/Datus20/NETWORKWALKS-DATUS-B084-WK2-PM5-ZENMAP-BASED-NETWORK-SCANNING
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: 
 
 -End-
