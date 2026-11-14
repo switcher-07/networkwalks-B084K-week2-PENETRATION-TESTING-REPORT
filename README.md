@@ -169,10 +169,5 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 👤 Author
 Farid BAYILI
 LinkedIn: https://www.linkedin.com/in/ip%C3%A9n%C3%A9-cheik-farid-bayili-560543387/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqNhsDSR3QRGLL7iKdtshZQ%3D%3D
-________________________________________
-📌 Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: 
-
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: 
-
--End-
+__________________________________________________________________________________________________________________________________________
+                                                            -End-
