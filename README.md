@@ -148,25 +148,24 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
 
-<img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/50beb392-47a3-497b-989e-40bf5adf2dc4" />
+<img width="1050" height="590" alt="image" src="1.png" />
 
-<img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/8841a777-f047-4ae1-86cc-528f8edd658b" />
+<img width="1050" height="590" alt="image" src="2.png" />
 
-<img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/639e0477-4991-459c-a448-56eb1c86c73e" />
+<img width="1050" height="590" alt="image" src="3.png" />
 
-<img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/3e8ee98a-e700-4163-96e7-25b3339c9d63" />
+<img width="1050" height="590" alt="image" src="4.png" />
 
-<img width="1050" height="590" alt="image" src="https://github.com/user-attachments/assets/ff13fa2f-e4fe-48a4-a83f-1647ac798b9a" />
-
-
-<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/58a344ec-aa48-4775-9d8a-8dae7a63b131" />
+<img width="1050" height="590" alt="image" src="5.png" />
 
 
-<img width="1050" height="677" alt="image" src="https://github.com/user-attachments/assets/446f7311-0f62-4a67-a584-b05bb8d0bcde" />
+<img width="1050" height="591" alt="image" src="6.png" />
 
-<img width="1050" height="636" alt="image" src="7.png" />
+
+<img width="1050" height="677" alt="image" src="7.png" />
+
+<img width="1050" height="636" alt="image" src="graphique.pdf" />
 
 
 
